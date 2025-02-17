@@ -1,0 +1,85 @@
+Metric,Value,state
+Training MAE,0.03,Pulau Pinang
+Training RMSE,0.07,Pulau Pinang
+Training MAPE,34.94,Pulau Pinang
+Testing MAE,0.00,Pulau Pinang
+Testing RMSE,0.00,Pulau Pinang
+Testing MAPE,2.47,Pulau Pinang
+Training MAE,0.04,Sabah
+Training RMSE,0.09,Sabah
+Training MAPE,inf,Sabah
+Testing MAE,0.00,Sabah
+Testing RMSE,0.00,Sabah
+Testing MAPE,2.79,Sabah
+Training MAE,0.04,Perlis
+Training RMSE,0.10,Perlis
+Training MAPE,inf,Perlis
+Testing MAE,0.01,Perlis
+Testing RMSE,0.02,Perlis
+Testing MAPE,inf,Perlis
+Training MAE,0.02,Perak
+Training RMSE,0.06,Perak
+Training MAPE,inf,Perak
+Testing MAE,0.01,Perak
+Testing RMSE,0.01,Perak
+Testing MAPE,4.94,Perak
+Training MAE,0.02,Pahang
+Training RMSE,0.07,Pahang
+Training MAPE,inf,Pahang
+Testing MAE,0.00,Pahang
+Testing RMSE,0.00,Pahang
+Testing MAPE,2.75,Pahang
+Training MAE,0.02,Negeri Sembilan
+Training RMSE,0.07,Negeri Sembilan
+Training MAPE,39.94,Negeri Sembilan
+Testing MAE,0.00,Negeri Sembilan
+Testing RMSE,0.00,Negeri Sembilan
+Testing MAPE,2.49,Negeri Sembilan
+Training MAE,0.02,Melaka
+Training RMSE,0.07,Melaka
+Training MAPE,26.35,Melaka
+Testing MAE,0.00,Melaka
+Testing RMSE,0.00,Melaka
+Testing MAPE,3.22,Melaka
+Training MAE,0.02,Kuala Lumpur
+Training RMSE,0.06,Kuala Lumpur
+Training MAPE,15.43,Kuala Lumpur
+Testing MAE,0.00,Kuala Lumpur
+Testing RMSE,0.00,Kuala Lumpur
+Testing MAPE,1.28,Kuala Lumpur
+Training MAE,0.03,Kelantan
+Training RMSE,0.07,Kelantan
+Training MAPE,inf,Kelantan
+Testing MAE,0.00,Kelantan
+Testing RMSE,0.00,Kelantan
+Testing MAPE,2.22,Kelantan
+Training MAE,0.03,Kedah
+Training RMSE,0.07,Kedah
+Training MAPE,inf,Kedah
+Testing MAE,0.00,Kedah
+Testing RMSE,0.00,Kedah
+Testing MAPE,2.63,Kedah
+Training MAE,0.04,Sarawak
+Training RMSE,0.11,Sarawak
+Training MAPE,inf,Sarawak
+Testing MAE,0.00,Sarawak
+Testing RMSE,0.00,Sarawak
+Testing MAPE,5.38,Sarawak
+Training MAE,0.04,Johor
+Training RMSE,0.10,Johor
+Training MAPE,inf,Johor
+Testing MAE,0.01,Johor
+Testing RMSE,0.01,Johor
+Testing MAPE,8.96,Johor
+Training MAE,0.03,Terengganu
+Training RMSE,0.08,Terengganu
+Training MAPE,inf,Terengganu
+Testing MAE,0.00,Terengganu
+Testing RMSE,0.00,Terengganu
+Testing MAPE,2.04,Terengganu
+Training MAE,0.04,Selangor
+Training RMSE,0.10,Selangor
+Training MAPE,78.06,Selangor
+Testing MAE,0.00,Selangor
+Testing RMSE,0.00,Selangor
+Testing MAPE,1.73,Selangor
