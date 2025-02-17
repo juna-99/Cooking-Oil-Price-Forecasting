@@ -23,7 +23,9 @@ Cooking oil prices in Malaysia exhibit significant fluctuations due to factors l
 5. **Model Evaluation**: Compare model performance using error metrics (MAE, RMSE, MAPE).
 6. **Visualization & Interpretation**: Use Power BI to present results and insights.
 7. **Deployment & Future Enhancements**: Explore improvements, including real-time updates.
-
+![Alt text](https://github.com/juna-99/Cooking-Oil-Price-Forecasting/blob/976ecee68c893c087ec4ae7783ab419f57820491/blob/Screenshot%202025-02-17%20104129.png)
+![Alt text](https://github.com/juna-99/Cooking-Oil-Price-Forecasting/blob/976ecee68c893c087ec4ae7783ab419f57820491/blob/board-ridiculous-pickle%20(1).jpg)
+![Alt text](https://github.com/juna-99/Cooking-Oil-Price-Forecasting/blob/976ecee68c893c087ec4ae7783ab419f57820491/blob/board-ridiculous-pickle.jpg)
 
 ## 📊Results & Analysis 
 
